@@ -1,0 +1,20 @@
+BACKUP ~reflection/backup~
+AUTHOR ~bucketfulofsunshine (BFS)~
+VERSION ~0.1~
+
+ALWAYS
+  INCLUDE ~%MOD_FOLDER%/lib/functions.tph~
+END
+
+BEGIN ~Reflection~
+
+// CamDawg's code for State.ids
+APPEND ~STATE.IDS~ ~0x80101FEF CD_STATE_NOTVALID~
+UNLESS ~CD_STATE_NOTVALID~
+
+// Dialogues
+COMPILE ~Reflection/dialogues/BFS_ImoenWraith.d~
+
+// Compile scripts
+EXTEND_TOP ~imoe25.bcs~ ~Reflection/scripts/imoe25.baf~
+	

@@ -1,0 +1,25 @@
+// Gorion Wraith Convo
+
+IF
+InParty(Myself)
+CombatCounter(0)
+InParty(Myself)
+!See([ENEMY])
+See(Player1)
+!StateCheck("IMOEN2",CD_STATE_NOTVALID)
+!StateCheck(Player1,CD_STATE_NOTVALID)
+Dead("HGWRA01")
+Global("BFSImoenGorionWraith","GLOBAL",0)
+!Global("ImoenRomanceActive","GLOBAL",2) // Disabling because IR has a longer, and frankly better, scene. But for non-romancers...have some sibling bonding and fluff. :) 
+THEN
+RESPONSE #100
+SetGlobal("BFSImoenGorionWraith","GLOBAL",1)
+END
+
+IF
+Global("BFSImoenGorionWraith","GLOBAL",1)
+THEN
+RESPONSE #100
+MoveToObject(Player1)
+StartDialogueNoSet(Player1)
+END
