@@ -1,6 +1,5 @@
 # Reflection
 
-INTRODUCTION
 This mod adds a short conversation with Imoen following the appearance of Gorion's Wraith (in TOB). Because, hey, it should affect her too! Although the Imoen Romance mod includes a similar conversation, I wanted to write my own spin on it. Please note there will be some content incompatibility between the two mods as a result.
 
 Honestly, for more in-depth Imoen goodness, please install Imoen4Ever and Imoen Friendship. Since those are fully fledged expansions on her character. Reflection exists only to fill a gap that neither of those mods cover at the moment.
