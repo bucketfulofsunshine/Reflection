@@ -33,4 +33,4 @@ A: Even in death I serve the Omnissiah! :3
 
 ## CHANGELOG
 
-* 1.1 - First release. Includes a single conversation with Imoen. Mod temporarily renamed to fit current, minimal content. 
+* 1.0 - First release. Includes a single conversation with Imoen. Mod temporarily renamed to fit current, minimal content. 
