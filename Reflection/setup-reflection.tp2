@@ -1,6 +1,6 @@
 BACKUP ~reflection/backup~
-AUTHOR ~bucketfulofsunshine (BFS)~
-VERSION ~0.1~
+SUPPORT ~bucketfulofsunshine on Discord~
+VERSION ~1.0~
 
 ALWAYS
   INCLUDE ~%MOD_FOLDER%/lib/functions.tph~

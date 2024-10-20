@@ -1,5 +1,4 @@
 // Gorion Wraith Convo
-
 IF
 InParty(Myself)
 CombatCounter(0)
@@ -10,7 +9,7 @@ See(Player1)
 !StateCheck(Player1,CD_STATE_NOTVALID)
 Dead("HGWRA01")
 Global("BFSImoenGorionWraith","GLOBAL",0)
-!Global("ImoenRomanceActive","GLOBAL",2) // Disabling because IR has a longer, and frankly better, scene. But for non-romancers...have some sibling bonding and fluff. :) 
+!Global("ImoenRomanceActive","GLOBAL",2) // Disabling because Imoen Romance has a longer, and frankly better, scene. But for non-romancers...have some sibling bonding and fluff. :) 
 THEN
 RESPONSE #100
 SetGlobal("BFSImoenGorionWraith","GLOBAL",1)

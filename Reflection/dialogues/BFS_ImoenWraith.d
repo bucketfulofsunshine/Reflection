@@ -42,12 +42,12 @@ IF ~Class(Player1,DRUID_ALL)~ + BFSImoenDruid
 IF ~Class(Player1,RANGER_ALL)~ + BFSImoenRanger
 IF ~Class(Player1,SORCERER)~ + BFSImoenSorcerer
 IF ~Class(Player1, MAGE_ALL)~ + BFSImoenMageOther
-IF ~Class(Player1,BARD)~ + BFSImoenBard
+IF ~Class(Player1,BARD_ALL)~ + BFSImoenBard
 IF ~Class(Player1,THIEF_ALL)~ + BFSImoenThiefOther
 IF ~Class(Player1,SHAMAN)~ + BFSImoenShaman
 IF ~Class(Player1,CLERIC_ALL)~ + BFSImoenClericOther
 IF ~Kit(Player1,BLACKGUARD)~ + BFSImoenBlackguard
-IF ~Class(Player1,PALADIN)~ + BFSImoenPaladin 
+IF ~Class(Player1,PALADIN)_ALL)~ + BFSImoenPaladin 
 IF ~Class(Player1,MONK)~ + BFSImoenMonk
 IF ~Class(Player1,FIGHTER_ALL)~ + BFSImoenFighterOther
 END
