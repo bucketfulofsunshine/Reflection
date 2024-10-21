@@ -15,7 +15,7 @@ A: With canon characters, especially ones as beloved as Imoen, players will have
 
 A: Please send them my way. I'd love to include as many options as possible, but I can't cover every possibility by myself. The class-specific dialogue, especially in later parts, remains rough and unpolished. It will be refined, or even completely rewritten, in future updates. :)
 
-#### Q: Any plans for TRA-ifying?
+### Q: Any plans for TRA-ifying?
 
 A: Given its current, minimal content, I doubt anyone plans to translate this mod. With the full mod release, yes, the dialogue will be TRA-ified. 
 
