@@ -1,9 +1,10 @@
 # Reflection
 
-This mod is forever a WIP in the sense that I add random dialogues, that I feel are missing from vanilla NPCs, here. That pile is ever-growing and this mod will see more additions over months / years.
+Reflection is an ongoing WIP mod that adds random dialogues that I feel are missing from vanilla NPCs (but I'm too lazy to write a full friendship track for OR they already have another friendship mod). The collection will continue to grow over time as new lines and conversations are added.
 
-**The current version adds**
-- An introspective dialogue with Imoen, in Throne of Bhaal, after dealing with Gorion's Spectre. It's disabled if the player is romancing Imoen, via her romance mod, since that adds a longer dialogue. 
+*Current version adds**
+- An introspective dialogue with Imoen, in Throne of Bhaal, after dealing with Gorion's Spectre. 
+  - This dialogue is disabled if the player is romancing Imoen via her romance mod, since that mod already adds a longer conversation.
 
 ## LICENSING
 
