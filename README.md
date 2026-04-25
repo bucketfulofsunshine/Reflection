@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://64.media.tumblr.com/b84730c9aee263add34d82008d9ecc00/f83467379c46b182-44/s540x810/df32ded5dcc1d9051f6c29c99f60ee19998ec936.pnj" />
+</p>
+
 # Reflection
 
 Reflection is an ongoing WIP mod that adds random dialogues that I feel are missing from vanilla NPCs (but I'm too lazy to write a full friendship track for OR they already have another friendship mod). The collection will continue to grow over time as new lines and conversations are added.
